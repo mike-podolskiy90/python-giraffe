@@ -1,0 +1,3 @@
+# python-giraffe
+
+Python basics
